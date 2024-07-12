@@ -12,6 +12,9 @@ h3 {
     color: aquamarine;
     font-size: 16px;
 }
+h3:hover{
+    cursor: pointer;
+}
 h2{
     font-weight: 300;
     color: white;
@@ -21,7 +24,15 @@ p{
     font-size: 21px;
     color: grey;
 }
-footer {
+h4 {
     text-align: right;
     color: gray;
+}
+div{
+    display: block;
+}
+.phone {
+    text-align: center;
+    font-size: 21px;
+    padding-top: 10px;
 }
